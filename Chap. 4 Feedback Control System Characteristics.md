@@ -1,6 +1,10 @@
-# Chap. 4 Feedback Control System Characteristics
-
-###### tags: `Morden Control System`
+---
+title: 'Chap. 4 Feedback Control System Characteristics'
+date: 2019-11-21
+tags:
+  - control system
+math: true
+---
 The use of error signal, which is defined as a signal proportional to  the between the desired and the actual response, results in a closed-loop sequence of operations that is called a feedback system.
 
 <p style="color: blue;">
